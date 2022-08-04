@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  EmployeeDatabase
+
+  Created by Uday on 04/08/22.
+  
+*/
+
+
+// Error Message
+
+api_failed_message = "Unable to get employees, pls try again!";
+
+
+// Title
+
+"employees" = "Employees";
+
+
+// Accessibility values
+
+"employee_details_label" = "Employee Details";
+"employee_details_value" = "Employee name is {name} and job title is {job_title}";
